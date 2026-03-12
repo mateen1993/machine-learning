@@ -1,6 +1,6 @@
 # Linear Regression
 
-This folder contains the Jupyter notebooks **`Linear Regression.ipynb`**, **`W5_Programming_solution.ipynb`**, and **`W5_Programming_withoutSol.ipynb`**, which demonstrate how to perform simple linear regression using a dataset with one independent variable and one dependent variable.
+This folder contains the Jupyter notebook **`Linear Regression.ipynb`**, , which demonstrate how to perform simple linear regression using a dataset with one independent variable and one dependent variable.
 
 ## Dataset
 
